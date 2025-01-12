@@ -6,7 +6,7 @@ Welcome to the **Finetuned Chatbot** repository! 🚀 This project showcases a c
 
 ## 📂 About the Fine-Tuned Dataset
 
-You can find the fine-tuned dataset and related files [here on Google Drive](https://drive.google.com/drive/folders/1dZXL4ucOjCkc2l2qSqOhIarS38ZGuD3Q?usp=drive_link). 
+You can find the fine-tuned dataset and related files<a href="https://drive.google.com/drive/folders/1dZXL4ucOjCkc2l2qSqOhIarS38ZGuD3Q?usp=drive_link" target="_blank"> here on Google Drive</a>. 💾✨ [](). 
 
 ### 📊 Dataset Metrics
 Here are the key metrics from the fine-tuning process:
@@ -30,8 +30,7 @@ Here are the key metrics from the fine-tuning process:
 ---
 
 ## ⚙️ Model Used
-
-The chatbot is powered by the `facebook/bart-base` model, fine-tuned for this specific use case. You can explore the fine-tuning process in detail through this [notebook implementation](https://github.com/Firojpaudel/GenAI-Chronicles/blob/main/Seq2Seq/BART_generator_finetuning.ipynb). 📓✨
+The chatbot is powered by the `facebook/bart-base` model, fine-tuned for this specific use case. You can explore the fine-tuning process in detail through this <a href="https://github.com/Firojpaudel/GenAI-Chronicles/blob/main/Seq2Seq/BART_generator_finetuning.ipynb" target="_blank">Notebook implementation</a>. 📒✨
 
 ---
 

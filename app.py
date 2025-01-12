@@ -59,11 +59,33 @@ st.subheader("Input Fields")
 
 # Dropdown and Custom Intent Together
 predefined_intents = [
-    "book_flight",
-    "track_order",
-    "cancel_reservation",
-    "get_weather",
-    "general_query"
+    'cancel_order', 
+    'change_order', 
+    'change_shipping_address',
+    'check_cancellation_fee',
+    'check_invoice', 
+    'check_payment_methods',
+    'check_refund_policy', 
+    'complaint', 
+    'contact_customer_service',
+    'contact_human_agent', 
+    'create_account', 
+    'delete_account',
+    'delivery_options', 
+    'delivery_period', 
+    'edit_account',
+    'get_invoice', 
+    'get_refund', 
+    'newsletter_subscription',
+    'payment_issue', 
+    'place_order', 
+    'recover_password',
+    'registration_problems', 
+    'review', 
+    'set_up_shipping_address',
+    'switch_account', 
+    'track_order', 
+    'track_refund'
 ]
 col1, col2 = st.columns([1, 2])
 with col1:

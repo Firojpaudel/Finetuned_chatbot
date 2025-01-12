@@ -4,11 +4,11 @@ Welcome to the **Finetuned Chatbot** repository! 🚀 This project showcases a c
 
 ---
 
-## 📂 About the Fine-Tuned Dataset
+## 📂 About the Fine-Tuned Model
 
-You can find the fine-tuned dataset and related files<a href="https://drive.google.com/drive/folders/1dZXL4ucOjCkc2l2qSqOhIarS38ZGuD3Q?usp=drive_link" target="_blank"> here on Google Drive</a>. 💾✨ [](). 
+You can find the fine-tuned model and related files<a href="https://drive.google.com/drive/folders/1dZXL4ucOjCkc2l2qSqOhIarS38ZGuD3Q?usp=drive_link" target="_blank"> here on Google Drive</a>. 💾✨ [](). 
 
-### 📊 Dataset Metrics
+### 📊 Model Metrics
 Here are the key metrics from the fine-tuning process:
 - **Runtime**: 15,521.44 seconds 
 - **Steps**: 110 

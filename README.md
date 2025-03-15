@@ -50,9 +50,9 @@ Check out the demo in action:
 
 ### 🌟 Future Enhancements
 
-We’ve got exciting plans for the next iterations:
-- **RAG (Retrieval-Augmented Generation):** Integrate external knowledge sources for enhanced contextuality. 
-- **Conversational Memory:** Enable the chatbot to maintain conversation context across multiple exchanges. 
+Well now I've added the conversational Memory and implemented **RAG** as well.
+
+>However, its not that optimised and runtime is currently a bit high. Maybe we can reduce the inferencing time 🤷‍♂️
 
 ---
 
